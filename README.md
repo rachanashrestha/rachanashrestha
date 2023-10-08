@@ -6,7 +6,7 @@ I'm a passionate web developer.
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js
--**Database:** MySQL
+- **Database:** MySQL
 - **Version Control:** Git
 
 ## 🌱 What I'm Learning
